@@ -1,1 +1,1 @@
-repo containing shell basics
+system engineering devops
